@@ -4,7 +4,6 @@ import (
 	"CRUDGolang/database"
 
 	_ "github.com/jinzhu/gorm/dialects/mysql" //Required for MySQL dialect
-	
 )
 
 func main() {
